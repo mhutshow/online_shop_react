@@ -52,7 +52,7 @@ const Footer = () => {
             </section>
             <hr />
             <section className="py-5 flex justify-between">
-                <div className='lg:text-md md:text-sm text-xs'>All rights reserved to Fashionista &copy; {new Date().getFullYear()}</div>
+                <div className='lg:text-md md:text-sm text-xs'>All rights reserved | Developed by Mahedi Hasan &copy; {new Date().getFullYear()}</div>
                 <div className="flex items-center gap-5 lg:text-xl md:text-lg text-md">
                     <a href="https://facebook.com/" target="_blank" rel="noreferrer">
                         <BsFacebook className="text-[#4267B2] hover:scale-125 tarnsition duration-300" />
