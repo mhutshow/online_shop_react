@@ -18,8 +18,7 @@ Live Demo: https://online-shop-react-o1io.vercel.app/
 - Daisy UI
 
 ### Backend Technology
-- Node JS
-- Express
+Firebase
 
 ## Package used
 - react routers dom
