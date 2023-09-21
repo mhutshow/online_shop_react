@@ -1,7 +1,5 @@
 # Project Description
-A Fashion Focused Ecommerce Website. The website will feature a wide variety of products, including clothing, shoes, accessories, and beauty products. The products will be sourced from various brands and designers, ensuring that customers have access to the latest trends and styles in the fashion industry.
-
-Live Demo: https://online-shop-react-o1io.vercel.app/
+A Fashion Focused Ecommerce Website. The website will feature a wide variety of products, including clothing, shoes, accessories, and beauty products. The products will be sourced from various brands and designers, ensuring that customers have access to the latest trends and styles in the fashion.
 
 ## Project Span
 16 February, 2023 - till date
